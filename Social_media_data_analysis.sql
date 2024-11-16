@@ -133,5 +133,5 @@ Findings:
 >Most used hashtag:  #festivesale
 >Calculated average post per user which is 2.22%
 >Identified most popular user as per followers data: 
- 
+
 */
